@@ -35,10 +35,9 @@ Me apasiona transformar problemas complejos en soluciones digitales robustas y e
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroVG&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Lautaro" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroVG&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" height="150"/>
-</div>
+[![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LautaroVG&show_icons=true&theme=radium&hide_border=true)](https://github.com/LautaroVG)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroVG&layout=compact&theme=radium&hide_border=true)](https://github.com/LautaroVG)
 
 ---
 
