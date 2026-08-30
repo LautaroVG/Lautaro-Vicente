@@ -33,15 +33,7 @@ Me apasiona transformar problemas complejos en soluciones digitales robustas y e
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-[![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LautaroVG&show_icons=true&theme=radium&hide_border=true)](https://github.com/LautaroVG)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroVG&layout=compact&theme=radium&hide_border=true)](https://github.com/LautaroVG)
-
----
-
-### 📫 Contacto & Redes
+### Contacto & Redes
 
 Como desarrollador, valoro la comunicación clara y el trabajo en equipo colaborativo. ¡Hablemos!
 
